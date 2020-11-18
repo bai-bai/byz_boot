@@ -11,6 +11,9 @@
         <module>springboot-first</module>
         <module>springboot-config</module>
         <module>java-spi</module>
+        <module>java-spi</module>
+        <module>ali-pay</module>
+        <module>ali-pay</module>
     </modules>
     <packaging>pom</packaging>
 
