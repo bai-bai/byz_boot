@@ -1,0 +1,16 @@
+
+#spring.devtools.restart.exclude=config/**
+server:
+  port: 8001
+
+
+acme:
+  enabled: true
+  remote-address: 192.168.0.108
+  crdt: 2020/11/13 10:00:00
+  security:
+    username: txjava
+    password: 123
+    roles:
+      - 女主角
+      - 摄影师
