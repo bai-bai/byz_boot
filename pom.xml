@@ -11,9 +11,10 @@
         <module>springboot-first</module>
         <module>springboot-config</module>
         <module>java-spi</module>
-        <module>java-spi</module>
-        <module>ali-pay</module>
-        <module>ali-pay</module>
+        <module>springboot-dataSource</module>
+        <module>springboot-dataSource-druid2</module>
+        <module>springboot-dataSource-mybatis</module>
+        <module>springboot-dataSource-mybatis-config</module>
     </modules>
     <packaging>pom</packaging>
 

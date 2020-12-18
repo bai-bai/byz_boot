@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.10.203:3306/byz_boot?useUnicode=true&characterEncoding=utf8&autoReconnect=true&failOverReadOnly=false
+    username: root
+    password: root
